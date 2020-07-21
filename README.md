@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on "Myself"
+- 🌱 I’m currently learning "Machine Learning"
+- 👯 I’m looking to collaborate on "Any innovative organization"
+- 📫 How to reach me: feiwenxiong@foxmail.com
+
+
 <!--
 **feiwenxiong/feiwenxiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
