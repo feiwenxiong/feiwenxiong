@@ -1,5 +1,5 @@
 ### Hi there 👋
-![image](3.jpg)
+![image](https://github.com/feiwenxiong/feiwenxiong/blob/master/3.png)
 
 
 - 🔭 I’m currently working on "Myself"
