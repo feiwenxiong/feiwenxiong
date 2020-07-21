@@ -1,5 +1,5 @@
 ### Hi there 👋
-![3.jpg](hah)
+![3.jpg]
 
 
 - 🔭 I’m currently working on "Myself"
