@@ -2,9 +2,8 @@
 ![image](https://github.com/feiwenxiong/feiwenxiong/blob/master/3.png)
 
 
-- 🔭 I’m currently working on "Myself"
+- 🔭 I’m currently working on "raspberry pi computer vision project/ medical industry"
 - 🌱 I’m currently learning "Machine Learning"
-- 👯 I’m looking to collaborate on "Any innovative organization"
 - 📫 How to reach me: feiwenxiong@foxmail.com
 
 
@@ -13,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on "Myself"
+- 🔭 I’m currently working on "raspberry pi computer vision project/ medical industry"
 - 🌱 I’m currently learning "Machine Learning"
 - 👯 I’m looking to collaborate on "Any innovative organization"
 - 🤔 I’m looking for help with ...
