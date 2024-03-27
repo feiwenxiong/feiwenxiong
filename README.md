@@ -13,7 +13,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on "raspberry pi computer vision project/ medical industry"
-- 🌱 I’m currently learning "Machine Learning"
+- 🌱 I’m currently learning "Machine Learning/ computer vision / stock system"
 - 👯 I’m looking to collaborate on "Any innovative organization"
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
